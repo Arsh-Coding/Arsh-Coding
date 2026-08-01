@@ -45,5 +45,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arsh-Coding&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Arsh-Coding&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>

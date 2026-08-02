@@ -11,7 +11,7 @@
 
 - 🔭 Currently an **Associate Software Engineer at JungleWorks**, working on ride-lifecycle microservices, dynamic fare computation, and payout systems
 - ⚡ Cut average API response latency by **~30%** and power **10,000+ monthly transactions** with zero duplicate-charge incidents on Stripe/Square integrations
-- 🎓 B.Tech CSE, Rayat Bahra University (2025) — promoted from trainee to full-time engineer within 9 months
+- 🎓 B.Tech CSE, Rayat Bahra University (2025) — promoted from trainee to full-time engineer 
 - 🧩 Strong backend focus: **Node.js, Express, MongoDB, MySQL**, plus real-time systems (Socket.io) and containerized deployments (Docker)
 - 🌱 Currently exploring: AI-integrated tooling and expanding into full-stack product work
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/arshpreet-singh-esher-04882b251/)
